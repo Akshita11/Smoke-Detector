@@ -1,0 +1,98 @@
+Schema: yaml_ns
+Schema_version: '2019120601'
+items:
+- ns:
+  - ns1.md-95.bigrockservers.com.
+  - ns2.md-95.bigrockservers.com.
+- ns:
+  - ns1.md-99.bigrockservers.com.
+  - ns2.md-99.bigrockservers.com.
+- ns:
+  - adrian.ns.cloudflare.com.
+  - ben.ns.cloudflare.com.
+- ns:
+  - apollo.ns.cloudflare.com.
+  - liz.ns.cloudflare.com.
+- ns:
+  - ara.ns.cloudflare.com.
+  - greg.ns.cloudflare.com.
+- ns:
+  - asa.ns.cloudflare.com.
+  - plato.ns.cloudflare.com.
+- ns:
+  - bart.ns.cloudflare.com.
+  - lady.ns.cloudflare.com.
+- ns:
+  - braden.ns.cloudflare.com.
+  - georgia.ns.cloudflare.com.
+- ns:
+  - brenda.ns.cloudflare.com.
+  - merlin.ns.cloudflare.com.
+- ns:
+  - boyd.ns.cloudflare.com.
+  - jasmine.ns.cloudflare.com.
+- ns:
+  - burt.ns.cloudflare.com.
+  - naomi.ns.cloudflare.com.
+- ns:
+  - cass.ns.cloudflare.com.
+  - justin.ns.cloudflare.com.
+- ns:
+  - chip.ns.cloudflare.com.
+  - lola.ns.cloudflare.com.
+- ns:
+  - clark.ns.cloudflare.com.
+  - kiki.ns.cloudflare.com.
+- ns:
+  - elliot.ns.cloudflare.com.
+  - sue.ns.cloudflare.com.
+- ns:
+  - george.ns.cloudflare.com.
+  - lady.ns.cloudflare.com.
+- ns:
+  - jay.ns.cloudflare.com.
+  - jule.ns.cloudflare.com.
+- ns:
+  - lee.ns.cloudflare.com.
+  - ulla.ns.cloudflare.com.
+- ns:
+  - linda.ns.cloudflare.com.
+  - ned.ns.cloudflare.com.
+- ns:
+  - lloyd.ns.cloudflare.com.
+  - reza.ns.cloudflare.com.
+- ns:
+  - ned.ns.cloudflare.com.
+  - paris.ns.cloudflare.com.
+- ns:
+  - stan.ns.cloudflare.com.
+  - vera.ns.cloudflare.com.
+- ns:
+  - terin.ns.cloudflare.com.
+  - tess.ns.cloudflare.com.
+- ns: 247support-number.com.
+- ns: promoocodes.com.
+- ns: myassignmenthelp.co.uk.
+- ns: socialmonkee.com.
+- comment: no longer in DNS 2020-04-02
+  disable: true
+  ns: aapkeaajanese.website.
+- ns: healthymum.org.
+- ns: escortdomain.net.
+- ns: dnsdomen.com.
+- ns: letter.org.in.
+- comment: no longer in DNS 2020-04-02
+  disable: true
+  ns: utecho.com.
+- ns: siteground.asia.
+- ns: ddos-guard.net.
+- ns: orangewebsite.com.
+- ns: fcomet.com.
+- ns: stackpathdns.net.
+- ns: pakihosting.com.
+- ns: md-19.webhostbox.net.
+- ns: ukm14.siteground.biz.
+- ns: my-wifiextnet.net.
+- ns: doodledigital.net.
+- ns: ocpdns.com.
+- ns: c67050.sgvps.net.
